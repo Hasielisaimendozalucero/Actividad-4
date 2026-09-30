@@ -83,20 +83,20 @@ El presente proyecto consiste en el diseño, personalización e implementación 
 
 ## 📸 Capturas de Pantalla
 
-*(Reemplaza los nombres de archivo por tus propias capturas dentro de la carpeta `img/`)*
-
 ### 1. Vista Principal (Encabezado con Foto y Menú)
-![Encabezado y Menú Principal](img/captura-header.png)
+![Vista Principal](img/vistauno.png)
 
 ### 2. Sección de Proyectos y Habilidades
-![Proyectos y Habilidades](img/captura-proyectos.png)
+![Sección de Proyectos](img/abajo.png)
 
-### 3. Modal Interactivo y Tema Oscuro
-![Ventana Modal](img/captura-modal.png)
+### 3. Vista Intermedia
+![Detalles del Sitio](img/masabajito.png)
 
+### 4. Sección de Contacto y Pie de Página
+![Contacto y Footer](img/masmasabajito.png)
 ---
 
 ## 🌐 Enlaces del Proyecto
 
-* **Repositorio en GitHub:** `https://github.com/TU-USUARIO/NOMBRE-REPOSITORIO`
-* **Sitio en vivo (GitHub Pages):** `https://TU-USUARIO.github.io/NOMBRE-REPOSITORIO/`
+* **Repositorio en GitHub:** https://github.com/Hasielisaimendozalucero/Actividad-4
+* **Sitio en vivo (GitHub Pages):** https://hasielisaimendozalucero.github.io/Actividad-4/
